@@ -1,0 +1,4 @@
+category: Gnome Graphics
+requires: cygwin glib2 gtk2-x11 ImageMagick libglade2 libintl8 nautilus
+sdesc: "Nautilus image conversion extension"
+ldesc: "Image conversion extension for the Nautilus file manager"
